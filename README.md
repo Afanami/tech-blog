@@ -5,12 +5,14 @@ Personal blog for posting things I learn
 ## Tech Stack
 
 - Next.js
+- TypeScript
 - GraphQL
 - tailwindcss
 
-# Libraries
+# Libraries + Other
 
 - Tailwind Styled Components
+- Hygraph
 
 ## Project Vision
 
@@ -18,6 +20,6 @@ To create a functioning blog using technology I've been using recently such as N
 
 ## Project Progress
 
-Setup Next.js template and updated README file with project information.
+Setup Next.js template and updated README file with project information. Created most of the major components and required for the page and structured out document. Created some GraphQL queries to start fetching some data from Hygraph. Implemented Header and Posts components as well as the PostWidget.
 
 # TODO
